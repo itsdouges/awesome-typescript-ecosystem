@@ -41,6 +41,8 @@ and more.
 - [ts-transform-react-jsx-source](https://github.com/dropbox/ts-transform-react-jsx-source) - TypeScript AST Transformer that adds source file and line number to JSX elements 
 - [ts-transform-react-constant-elements](https://github.com/dropbox/ts-transform-react-constant-elements) - A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope
 - [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components 
+- [ts-transform-import-to-lazy-async-import](https://github.com/avensia-oss/ts-transform-import-to-lazy-async-import) - A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧
+- [ts-transform-instrument-react-components](https://github.com/avensia-oss/ts-transform-instrument-react-components) - A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧
 
 ### i18n
 
@@ -58,6 +60,8 @@ and more.
 ### Optimization
 
 - [ts-transform-inferno](https://github.com/deamme/ts-transform-inferno) - Typescript transformer for InfernoJS 
+- [ts-transform-async-import](https://github.com/avensia-oss/ts-transform-async-import) - A TypeScript custom transformer that turns synchronous imports of async functions into asynchronous imports 🔧
+- [ts-transform-export-const-folding](https://github.com/avensia-oss/ts-transform-export-const-folding) - This is a TypeScript custom transform that removes imported constants by inlining them.
 
 ## Language service plugins
 
