@@ -40,6 +40,7 @@ and more.
 - [@avensia/oss/ts-transform-hoist-objects-in-props](https://www.npmjs.com/package/@avensia-oss/ts-transform-hoist-objects-in-props) - A TypeScript custom transformer that hoists object literals and functions that are passed to JSX props.
 - [ts-transform-react-jsx-source](https://github.com/dropbox/ts-transform-react-jsx-source) - TypeScript AST Transformer that adds source file and line number to JSX elements 
 - [ts-transform-react-constant-elements](https://github.com/dropbox/ts-transform-react-constant-elements) - A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope
+- [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components 
 
 ### i18n
 
