@@ -28,7 +28,7 @@ and more.
 - [ts-transform-css-modules](https://github.com/longlho/ts-transform-css-modules) - Extract css class names from required css module files for TypeScript
 - [ts-transform-img](https://github.com/longlho/ts-transform-img) - Allow `import * as img from 'foo.png'` in TS 
 - [ts-transform-import-path-rewrite](https://github.com/dropbox/ts-transform-import-path-rewrite) - TS AST transformer to rewrite import path
-- [ts-transform-graphql-tag](https://github.com/firede/ts-transform-graphql-tag) - Compiles GraphQL tagged template strings using graphql-tag in TypeScript files. 
+- [ts-transform-graphql-tag](https://github.com/firede/ts-transform-graphql-tag) - Compiles GraphQL tagged template strings using graphql-tag in TypeScript files
 
 ### Module resolution
 
@@ -43,6 +43,7 @@ and more.
 - [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components 
 - [ts-transform-import-to-lazy-async-import](https://github.com/avensia-oss/ts-transform-import-to-lazy-async-import) - A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧
 - [ts-transform-instrument-react-components](https://github.com/avensia-oss/ts-transform-instrument-react-components) - A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧
+- [untitled-css-in-js-project](https://github.com/madou/untitled-css-in-js-project) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
 
 ### i18n
 
