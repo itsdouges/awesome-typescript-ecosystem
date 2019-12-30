@@ -11,6 +11,7 @@
 - [typescript-book](https://github.com/basarat/typescript-book/) - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
 - [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) - 📘 A handbook on how to create transformers for Typescript with real code examples
 - [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - The TypeScript Handbook is a comprehensive guide to the TypeScript language
+- [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki)
 
 ## Transformers
 
@@ -59,7 +60,8 @@ and more.
 
 ## Language service plugins
 
-Language service plugins enable rich developer experience warnings or errors in your IDE.
+Language service plugins enable rich developer experience warnings, errors, and even intellisense in your IDE.
+Read [how to write your own langauge service plugin here](https://github.com/Microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin).
 
 - [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - TypeScript Language Service Plugin for GraphQL developers 
 - [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) - TypeScript server plugin that adds intellisense to styled component css strings
