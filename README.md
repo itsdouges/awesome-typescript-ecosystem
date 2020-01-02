@@ -43,7 +43,7 @@ and more.
 - [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components 
 - [ts-transform-import-to-lazy-async-import](https://github.com/avensia-oss/ts-transform-import-to-lazy-async-import) - A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧
 - [ts-transform-instrument-react-components](https://github.com/avensia-oss/ts-transform-instrument-react-components) - A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧
-- [untitled-css-in-js-project](https://github.com/madou/untitled-css-in-js-project) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
+- [@compiled/css-in-js](https://github.com/compiled-js/css-in-js) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
 
 ### i18n
 
