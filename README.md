@@ -35,6 +35,7 @@ and more.
 ### Module resolution
 
 - [ts-transformer-imports](https://www.npmjs.com/package/ts-transformer-imports) - A TypeScript transformer which enables compilation of absolute imports (using baseUrl or paths) so they can be required as modules from Javascript or TypeScript, without additional configuration or path mapping
+- [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) - Modular import plugin for TypeScript
 
 ### React
 
@@ -43,6 +44,7 @@ and more.
 - [ts-transform-react-jsx-source](https://github.com/dropbox/ts-transform-react-jsx-source) - TypeScript AST Transformer that adds source file and line number to JSX elements 
 - [ts-transform-react-constant-elements](https://github.com/dropbox/ts-transform-react-constant-elements) - A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope
 - [typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components 
+- [emotion-ts-plugin](https://github.com/LeetCode-OpenSource/emotion-ts-plugin) - TypeScript transformer for improving the debugging experience and abilities of emotion
 - [ts-transform-import-to-lazy-async-import](https://github.com/avensia-oss/ts-transform-import-to-lazy-async-import) - A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧
 - [ts-transform-instrument-react-components](https://github.com/avensia-oss/ts-transform-instrument-react-components) - A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧
 - [@compiled/css-in-js](https://github.com/compiled-js/css-in-js) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
