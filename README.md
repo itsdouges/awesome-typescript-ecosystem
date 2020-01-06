@@ -57,6 +57,7 @@ and more.
 
 - [ts-auto-mock](https://www.npmjs.com/package/ts-auto-mock) - A Typescript transformer that will allow you to create mock for any types (Interfaces, Classes, ...) without need to create manual fakes/mocks.
 - [jest-ts-auto-mock](https://github.com/Typescript-TDD/jest-ts-auto-mock) - Jest test utility with automatic mock creation for interfaces and classes
+- [ts-transformer-testing-library](https://github.com/marionebl/ts-transformer-testing-library) - Make testing custom TypeScript transformers a breeze
 
 ### Optimization
 
