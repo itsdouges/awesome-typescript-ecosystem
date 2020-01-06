@@ -23,6 +23,7 @@ and more.
 
 ### General transformers
 
+- [typescript-is](https://github.com/woutervh-/typescript-is#readme) - generate run-time type-checks
 - [ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [ts-transform-json](https://github.com/longlho/ts-transform-json) - Inline specific values from a JSON file or the whole JSON blob
 - [ts-transform-json-schema](https://github.com/marionebl/ts-transform-json-schema) - Generate inline JSON schema from TypeScript types
