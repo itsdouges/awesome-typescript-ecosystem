@@ -73,3 +73,13 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) - TypeScript server plugin that adds intellisense to styled component css strings
 - [tslint-language-service](https://github.com/angelozerr/tslint-language-service/) - TypeScript 2.2.1 plugin for tslint 
 - [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) -  TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder
+
+## Tools
+
+- [ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
+- [ts-morph](https://github.com/dsherret/ts-morph) -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
+- [ts-creator](https://github.com/HearTao/ts-creator) - A code generator to generate TypeScript code generator from TypeScript code
+- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources
+- [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
+
+
