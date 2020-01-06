@@ -25,6 +25,7 @@ and more.
 
 - [ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript
 - [ts-transform-json](https://github.com/longlho/ts-transform-json) - Inline specific values from a JSON file or the whole JSON blob
+- [ts-transform-json-schema](https://github.com/marionebl/ts-transform-json-schema) - Generate inline JSON schema from TypeScript types
 - [ts-transform-css-modules](https://github.com/longlho/ts-transform-css-modules) - Extract css class names from required css module files for TypeScript
 - [ts-transform-img](https://github.com/longlho/ts-transform-img) - Allow `import * as img from 'foo.png'` in TS 
 - [ts-transform-import-path-rewrite](https://github.com/dropbox/ts-transform-import-path-rewrite) - TS AST transformer to rewrite import path
