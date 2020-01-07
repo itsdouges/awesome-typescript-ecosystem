@@ -56,6 +56,7 @@ and more.
 ### Types
 
 - [ts-transformer-keys](https://www.npmjs.com/package/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
+- [types-directory](https://www.npmjs.com/package/types-directory) - A `DefinitelyTyped` types directory, released daily
 
 ### Testing
 
