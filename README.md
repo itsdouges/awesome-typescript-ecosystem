@@ -47,7 +47,7 @@ and more.
 - [emotion-ts-plugin](https://github.com/LeetCode-OpenSource/emotion-ts-plugin) - TypeScript transformer for improving the debugging experience and abilities of emotion
 - [ts-transform-import-to-lazy-async-import](https://github.com/avensia-oss/ts-transform-import-to-lazy-async-import) - A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧
 - [ts-transform-instrument-react-components](https://github.com/avensia-oss/ts-transform-instrument-react-components) - A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧
-- [@compiled/css-in-js](https://github.com/compiled-js/css-in-js) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
+- [@compiled/css-in-js](https://github.com/atlassian-labs/compiled-css-in-js) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
 
 ### i18n
 
