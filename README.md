@@ -86,5 +86,7 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [ts-creator](https://github.com/HearTao/ts-creator) - A code generator to generate TypeScript code generator from TypeScript code
 - [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources
 - [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
+- [ts-query](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
+
 
 
