@@ -1,9 +1,9 @@
-# Awesome Typescript Ecosystem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome TypeScript Ecosystem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> 😎 A list of awesome Typescript transformers, plugins, handbooks, etc
+> 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 
 > As always,
-> use caution when trying out Typescript transformers & plugins,
+> use caution when trying out TypeScript transformers & plugins,
 > especially those marked as 🔧 _experimental_ or 🔧🚧 _under construction_.
 
 ## Handbooks
@@ -39,7 +39,7 @@ and more.
 
 ### React
 
-- [react-hot-ts](https://github.com/elsassph/react-hot-ts) - A lightweight, Typescript-native, Babel-free, plugin-free, implementation of react-hot-loader
+- [react-hot-ts](https://github.com/elsassph/react-hot-ts) - A lightweight, TypeScript-native, Babel-free, plugin-free, implementation of react-hot-loader
 - [ts-transform-hoist-objects-in-props](https://github.com/avensia-oss/ts-transform-hoist-objects-in-props) - A TypeScript custom transformer that hoists object literals and functions that are passed to JSX props.
 - [ts-transform-react-jsx-source](https://github.com/dropbox/ts-transform-react-jsx-source) - TypeScript AST Transformer that adds source file and line number to JSX elements 
 - [ts-transform-react-constant-elements](https://github.com/dropbox/ts-transform-react-constant-elements) - A TypeScript AST Transformer that can speed up reconciliation and reduce garbage collection pressure by hoisting React elements to the highest possible scope
@@ -47,7 +47,7 @@ and more.
 - [emotion-ts-plugin](https://github.com/LeetCode-OpenSource/emotion-ts-plugin) - TypeScript transformer for improving the debugging experience and abilities of emotion
 - [ts-transform-import-to-lazy-async-import](https://github.com/avensia-oss/ts-transform-import-to-lazy-async-import) - A TypeScript custom transformer that turns your synchronously imported components into lazy loaded through React.lazy() (or a factory of your choosing) 🔧
 - [ts-transform-instrument-react-components](https://github.com/avensia-oss/ts-transform-instrument-react-components) - A TypeScript custom transformer that instruments React components to report which components exists in your bundle and which gets rendered 🔧
-- [@compiled/css-in-js](https://github.com/atlassian-labs/compiled-css-in-js) - Typescript first css-in-js library that compiles away to nothing 🔧🚧
+- [@compiled/css-in-js](https://github.com/atlassian-labs/compiled-css-in-js) - 👷‍♀ The CSS in JS authoring experience you love without the runtime cost.
 
 ### i18n
 
@@ -59,13 +59,13 @@ and more.
 
 ### Testing
 
-- [ts-auto-mock](https://www.npmjs.com/package/ts-auto-mock) - A Typescript transformer that will allow you to create mock for any types (Interfaces, Classes, ...) without need to create manual fakes/mocks.
+- [ts-auto-mock](https://www.npmjs.com/package/ts-auto-mock) - A TypeScript transformer that will allow you to create mock for any types (Interfaces, Classes, ...) without need to create manual fakes/mocks.
 - [jest-ts-auto-mock](https://github.com/Typescript-TDD/jest-ts-auto-mock) - Jest test utility with automatic mock creation for interfaces and classes
 - [ts-transformer-testing-library](https://github.com/marionebl/ts-transformer-testing-library) - Make testing custom TypeScript transformers a breeze
 
 ### Optimization
 
-- [ts-transform-inferno](https://github.com/deamme/ts-transform-inferno) - Typescript transformer for InfernoJS 
+- [ts-transform-inferno](https://github.com/deamme/ts-transform-inferno) - TypeScript transformer for InfernoJS 
 - [ts-transform-async-import](https://github.com/avensia-oss/ts-transform-async-import) - A TypeScript custom transformer that turns synchronous imports of async functions into asynchronous imports 🔧
 - [ts-transform-export-const-folding](https://github.com/avensia-oss/ts-transform-export-const-folding) - This is a TypeScript custom transform that removes imported constants by inlining them.
 
@@ -84,9 +84,6 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
 - [ts-morph](https://github.com/dsherret/ts-morph) -  TypeScript Compiler API wrapper for static analysis and programmatic code changes
 - [ts-creator](https://github.com/HearTao/ts-creator) - A code generator to generate TypeScript code generator from TypeScript code
-- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources
-- [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
+- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your TypeScript sources
+- [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your TypeScript sources
 - [ts-query](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
-
-
-
