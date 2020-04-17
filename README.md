@@ -78,6 +78,7 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [typescript-styled-plugin](https://github.com/Microsoft/typescript-styled-plugin) - TypeScript server plugin that adds intellisense to styled component css strings
 - [tslint-language-service](https://github.com/angelozerr/tslint-language-service/) - TypeScript 2.2.1 plugin for tslint 
 - [ts-sql-plugin](https://github.com/xialvjun/ts-sql-plugin) -  TypeScript Language Service Plugin for SQL with a tagged template strings SQL builder
+- [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) - A TypeScript Language Service Plugin that gives superpowers to SQL tagged template literals. 
 
 ## Tools
 
