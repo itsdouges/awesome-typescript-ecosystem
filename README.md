@@ -32,6 +32,7 @@ and more.
 - [ts-transform-import-path-rewrite](https://github.com/dropbox/ts-transform-import-path-rewrite) - TS AST transformer to rewrite import path
 - [ts-transform-graphql-tag](https://github.com/firede/ts-transform-graphql-tag) - Compiles GraphQL tagged template strings using graphql-tag in TypeScript files
 - [ts-transform-define](https://github.com/compiled/ts-transform-define) - Allows you to create global constants which can be configured at compile time.
+- [@ts-tools/robotrix](https://github.com/AviVahl/ts-tools/tree/master/packages/robotrix) - Useful TypeScript transpilation transformers.
 
 ### Module resolution
 
