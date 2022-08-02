@@ -90,3 +90,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your TypeScript sources
 - [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your TypeScript sources
 - [ts-query](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
+- [Explore TypeScript](https://kandi.openweaver.com/explore/typescript) - A curated list of TypeScript libraries, authors, kits, tutorials & learning resources
