@@ -92,3 +92,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your TypeScript sources
 - [ts-query](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [fallow](https://github.com/fallow-rs/fallow) - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
+- [jsontosdk](https://github.com/SolvoHQ/jsontosdk) - Paste a JSON sample and generate typed TypeScript interfaces, a Zod schema, and a fetch helper
