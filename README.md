@@ -93,3 +93,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [ts-query](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [fallow](https://github.com/fallow-rs/fallow) - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 - [jsontosdk](https://github.com/SolvoHQ/jsontosdk) - Paste a JSON sample and generate typed TypeScript interfaces, a Zod schema, and a fetch helper
+- [dotenv2types](https://github.com/SolvoHQ/dotenv2types) - Paste a .env and generate a typed env.ts with a Zod schema and inferred type, plus a documented .env.example
