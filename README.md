@@ -9,6 +9,7 @@
 ## Handbooks
 
 - [typescript-book](https://github.com/basarat/typescript-book/) - 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book covering fundamentals through advanced concepts.
 - [ts-transformer-handbook](https://github.com/madou/ts-transformer-handbook) - 📘 A handbook on how to create transformers for Typescript with real code examples
 - [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - The TypeScript Handbook is a comprehensive guide to the TypeScript language
 - [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki) - The official wiki for TypeScript lang
