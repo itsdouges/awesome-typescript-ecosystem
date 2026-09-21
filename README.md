@@ -94,3 +94,4 @@ Read [how to write your own langauge service plugin here](https://github.com/Mic
 - [ts-query](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [fallow](https://github.com/fallow-rs/fallow) - Finds dead code, duplication, circular dependencies, and complexity hotspots in TypeScript codebases
 - [jsontosdk](https://github.com/SolvoHQ/jsontosdk) - Paste a JSON sample and generate typed TypeScript interfaces, a Zod schema, and a fetch helper
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run at the process and socket boundary, then replays it offline with the network off or forks it from any checkpoint onto a different model
